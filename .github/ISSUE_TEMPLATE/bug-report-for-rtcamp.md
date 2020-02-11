@@ -20,6 +20,6 @@ assignees: ''
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-Find screenshot [here]
+Find screenshot
 
 
